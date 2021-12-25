@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Python",
+        "description": "Python is an interpreted high-level general-purpose programming language. Its design philosophy emphasizes code readability with its use of significant ",
+        "price": "$200 - $300"
+    },
+    {
+        "name": "Wordpress",
+        "description": "WordPress is open source software you can use to create a beautiful website, blog, or app. Beautiful designs, powerful features, and the freedom to build",
+        "price": "$100 - $200"
+    },
+    {
+        "name": "Php(From Scratch)",
+        "description": "PHP is a popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything ",
+        "price": "$150 - $210"
+    },
+    {
+        "name": "Kajabi",
+        "description": "“Failures are life’s way of nudging you and letting you know you are off course. Trying new things and not being afraid to fail along the way is more important than what you learn in school.”",
+        "price": "$50 - $100"
+    },
+    {
+        "name": "An ecommerce site",
+        "description": "An ecommerce platform is a software application that lets you set up an online store and manage its marketing, sales, and operations. There are 3 main types of ",
+        "price": "$500 - $800"
+    },
+    {
+        "name": "An online course platform",
+        "description": "Online course platforms are types of learning management systems (LMS) that provide users with access to digital classes. These virtual courses are similar",
+        "price": "$300 - $400"
+    },
+    {
+        "name": "A blog site",
+        "description": "Publish your passions your way. Whether you'd like to share your knowledge, experiences or the latest news, create a unique and beautiful blog for free",
+        "price": "$500 - $800"
+    },
+    {
+        "name": "My company website whit piece calculators",
+        "description": "Calculate the startup costs for your small business so you can request funding, ... Market research; Printed marketing materials; Making a website",
+        "price": "$90 - $120"
+    }
+]
